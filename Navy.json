@@ -1,8 +1,8 @@
 {
-  "name": "BetterDark",
-  "description": "Dark mode, but darker, and with white icons for usability.",
-  "version": "1.0.1",
-  "color": "#242424",
+  "name": "Navy",
+  "description": "An old UI port of the dark mode from the new UI.",
+  "version": "1.0.0",
+  "color": "#1D1D27",
   "authors": [
     {
       "name": "darealyeeto",
@@ -43,8 +43,8 @@
       "#2c2c2c"
     ],
     "BACKGROUND_PRIMARY": [
-      "#242424",
-      "#242424"
+      "#1D1D27",
+      "#1D1D27",
     ],
     "BACKGROUND_SECONDARY": [
       "#242424",
