@@ -55,8 +55,8 @@
       "#1D1D27"
     ],
     "BACKGROUND_TERTIARY": [
-      "#333333",
-      "#333333"
+      "#1D1D27",
+      "#1D1D27"
     ],
     "BACKGROUND_ACCENT": [
       "#272c35",
@@ -124,12 +124,12 @@
       "#000000"
     ],
     "CHAT_BACKGROUND": [
-      "#000000",
-      "#000000"
+      "#1D1D27",
+      "#1D1D27"
     ],
     "CHANNELS_DEFAULT": [
-      "#ffffff",
-      "#ffffff"
+      "#1D1D27",
+      "#1D1D27"
     ],
     "TEXT_LINK": [
       "#00aff4",
