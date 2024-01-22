@@ -11,12 +11,12 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
+      "#1D1D27",
+      "#1D1D27"
     ],
     "HEADER_SECONDARY": [
-      "#ffffff",
-      "#ffffff"
+      "#1D1D27",
+      "#1D1D27"
     ],
     "TEXT_NORMAL": [
       "#ffffff",
@@ -140,8 +140,8 @@
       "#000000"
     ],
     "CHANNEL_ICON": [
-      "#80848e",
-      "#80848e"
+      "#1D1D27",
+      "#1D1D27"
     ]
   },
   "colours": {
