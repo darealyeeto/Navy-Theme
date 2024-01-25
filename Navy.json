@@ -47,49 +47,49 @@
       "#17202A"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#000000"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#17202A",
       "#17202A"
     ],
     "BACKGROUND_TERTIARY": [
-      "#333333",
-      "#333333"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_ACCENT": [
-      "#272c35",
-      "#272c35"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_FLOATING": [
       "#111317",
       "#111317"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
-      "#000000"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
-      "#000000"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#000000",
       "#000000"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
-      "#333333"
+      "#17202A",
+      "#17202A"
     ],
     
     "BACKGROUND_MESSAGE_HOVER": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#17202A",
+      "#17202A"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#5E5E5E",
@@ -120,8 +120,8 @@
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#000000",
-      "#000000"
+      "#17202A",
+      "#17202A"
     ],
     "CHAT_BACKGROUND": [
       "#17202A",
@@ -136,8 +136,8 @@
       "#00aff4"
     ],
     "KEYBOARD": [
-      "#000000",
-      "#000000"
+      "#17202A",
+      "#17202A"
     ],
     "CHANNEL_ICON": [
       "#80848e",
